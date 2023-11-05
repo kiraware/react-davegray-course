@@ -29,24 +29,6 @@
       "title": "Testing a 4th post",
       "datetime": "November 04, 2023 10:37:16 AM",
       "body": "Some more testing paragraphs..."
-    },
-    {
-      "id": 6,
-      "title": "another post",
-      "datetime": "November 04, 2023 10:45:17 AM",
-      "body": "once again!"
-    },
-    {
-      "id": 7,
-      "title": "aaaa",
-      "datetime": "November 04, 2023 7:11:52 PM",
-      "body": "ssss"
-    },
-    {
-      "id": 8,
-      "title": "bbbb",
-      "datetime": "November 04, 2023 7:19:31 PM",
-      "body": "bb"
     }
   ]
 }
